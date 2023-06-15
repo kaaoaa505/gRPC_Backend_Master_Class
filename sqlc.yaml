@@ -1,0 +1,8 @@
+version: "1"
+cloud:
+    organization: ""
+    project: ""
+    hostname: ""
+project:
+    id: ""
+packages: []
